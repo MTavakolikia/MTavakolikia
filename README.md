@@ -28,9 +28,12 @@ I’m passionate about delivering seamless user experiences and solving complex 
 ---
 
 ### 🌟 Featured Projects
-1. [**Game Hub**](https://github.com/MTavakolikia/game-hub-mui): Brief description of the project.  
-   **Tech Stack:** React, Redux, Node.js  
-   **Highlights:** User authentication, real-time updates, etc.
+1. [**Game Hub**](https://github.com/MTavakolikia/game-hub-mui): Game Hub MUI is a modern, dynamic application that provides users with a visually appealing and highly functional interface to explore video games. Built with the latest frontend technologies, it leverages the powerful RAWG API to deliver up-to-date and detailed information about a wide variety of games.  
+
+- **Game Exploration:** Browse, search, and view detailed information about video games, including name, genre, rating, and images.  
+- **Responsive Design:** Ensures a seamless user experience across all devices.  
+- **API Integration:** Utilizes the RAWG API for rich and accurate game data.  
+- **High Performance:** Optimized for fast load times and efficient data fetching.  
 
 2. [**Property Pluse**](https://github.com/MTavakolikia/property-pulse): Brief description of the project.  
    **Tech Stack:** JavaScript, TailwindCSS  
