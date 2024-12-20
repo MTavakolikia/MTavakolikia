@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimageid/banner.png" alt="Banner" />
+  <img src="https://user-images.githubusercontent.com/repo-image.png" alt="Banner" />
 </p>
 
 ---
