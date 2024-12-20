@@ -28,15 +28,15 @@ I’m passionate about delivering seamless user experiences and solving complex 
 ---
 
 ### 🌟 Featured Projects
-1. [**Project 1 Name**](https://github.com/MTavakolikia/game-hub-mui): Brief description of the project.  
+1. [**Game Hub**](https://github.com/MTavakolikia/game-hub-mui): Brief description of the project.  
    **Tech Stack:** React, Redux, Node.js  
    **Highlights:** User authentication, real-time updates, etc.
 
-2. [**Project 2 Name**](https://github.com/MTavakolikia/property-pulse): Brief description of the project.  
+2. [**Property Pluse**](https://github.com/MTavakolikia/property-pulse): Brief description of the project.  
    **Tech Stack:** JavaScript, TailwindCSS  
    **Highlights:** Interactive dashboards, responsive design, etc.
 
-3. [**Project 3 Name**](https://github.com/MTavakolikia/movie-app): Brief description of the project.  
+3. [**Movie App**](https://github.com/MTavakolikia/movie-app): Brief description of the project.  
    **Tech Stack:** React, Firebase  
    **Highlights:** Dynamic CRUD operations, optimized performance.
 
