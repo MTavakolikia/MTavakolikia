@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-    <img src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=search&page=1&position=14&uuid=d212f550-ec4f-4437-8e72-f700661c569a&new_detail=true" alt="Banner" />
+    <img src="./repo-image.png" alt="Banner" />
 
 </p>
 
