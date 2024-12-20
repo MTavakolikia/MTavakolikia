@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-    <img src="./repo-image.webp" alt="Banner" width="150" />
+    <img src="./repo-image.webp" alt="Banner" width="250" />
 </p>
 
 ---
