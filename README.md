@@ -35,11 +35,11 @@ I’m passionate about delivering seamless user experiences and solving complex 
 - **API Integration:** Utilizes the RAWG API for rich and accurate game data.  
 - **High Performance:** Optimized for fast load times and efficient data fetching.  
 
-2. [**Property Pluse**](https://github.com/MTavakolikia/property-pulse): Movie App is a project built to showcase the latest movies from around the world using **The Movie Database (TMDb) API**. It combines cutting-edge design and seamless performance for a top-tier user experience.
+2. [**Property Pluse**](https://github.com/MTavakolikia/property-pulse): Property Pulse is a modern application designed to streamline property management with powerful features and a user-friendly interface.
 
-- **Next.js with React 19 for blazing-fast performance  
-- **Tailwind CSS and DaisyUI for beautiful and responsive design  
-- **API integration with TMDb for accurate and real-time movie data  
+- **Built with Next.js and React for performance and scalability  
+- **Styled with Tailwind CSS for responsive and sleek design  
+- **Interactive icons and loaders for enhanced user experience  
 
 Explore the project repositories and feel free to connect for collaboration! 🚀  
    **Tech Stack:** JavaScript, TailwindCSS  
