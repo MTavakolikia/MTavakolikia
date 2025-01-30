@@ -7,7 +7,7 @@
 ---
 
 <div>
-    <img  style="display: block; margin: 0 auto;" src="./repo-image.webp" alt="Banner" width="250" />
+    <img   align="center" src="./repo-image.webp" alt="Banner" width="250" />
 <div>
 <h2>🧑‍💻 About Me</h2>
 <p>
