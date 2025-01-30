@@ -7,8 +7,10 @@
 ---
 
 <div>
-    <img   align="center" src="./repo-image.webp" alt="Banner" width="250" />
-<div>
+  <div  align="center" >
+   <img   align="center" src="./repo-image.webp" alt="Banner" width="250" />
+    </div>
+ <div>
 <h2>🧑‍💻 About Me</h2>
 <p>
 I’m a **Frontend Developer** with over **5 years** of experience building interactive, user-friendly web applications.  
