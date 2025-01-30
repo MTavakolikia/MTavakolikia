@@ -7,7 +7,7 @@
 ---
 
 <div>
-    <img src="./repo-image.webp" alt="Banner" width="250" />
+    <img class="margin:auto" src="./repo-image.webp" alt="Banner" width="250" />
 <div>
 <h2>🧑‍💻 About Me</h2>
 <p>
