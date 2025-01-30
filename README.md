@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mohammad Tavakoli </h1>
 <h3 align="center">
   Frontend Developer | UI/UX Enthusiast | 5+ Years of Experience
@@ -5,16 +6,17 @@
 
 ---
 
-<p align="center">
+<div class="flex" align="center">
     <img src="./repo-image.webp" alt="Banner" width="250" />
-</p>
-
----
-
-### 🧑‍💻 About Me
+<div>
+<h2>🧑‍💻 About Me</h2>
+<p>
 I’m a **Frontend Developer** with over **5 years** of experience building interactive, user-friendly web applications.  
 I specialize in **React.js**, modern JavaScript frameworks, and **UI/UX design** to create scalable and performant solutions.  
 I’m passionate about delivering seamless user experiences and solving complex problems through design and code.
+</p>
+</div>
+</div>
 
 ---
 
