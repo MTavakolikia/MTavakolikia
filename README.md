@@ -6,7 +6,7 @@
 
 ---
 
-<div style="display:flex">
+<div>
     <img src="./repo-image.webp" alt="Banner" width="250" />
 <div>
 <h2>🧑‍💻 About Me</h2>
